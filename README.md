@@ -5,6 +5,7 @@
 Ја добив групата на код 4
 
 Control Flow Graph
+
 [![Screenshot-2020-06-13-at-19-21-40.png](https://i.postimg.cc/ZnSsC5SF/Screenshot-2020-06-13-at-19-21-40.png)](https://postimg.cc/vg0tKMDc)
 
 Цикломатска комплексност
